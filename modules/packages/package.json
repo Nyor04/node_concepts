@@ -1,0 +1,28 @@
+{
+  "name": "npm_learning",
+  "version": "1.0.0",
+  "description": "paquete para comprender el funcionamiento de npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyor04/node_concepts.git"
+  },
+  "keywords": [
+    "npm",
+    "learning"
+  ],
+  "author": "Nyor04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nyor04/node_concepts/issues"
+  },
+  "homepage": "https://github.com/Nyor04/node_concepts#readme",
+  "dependencies": {
+    "is-even": "^1.0.0",
+    "is-odd": "^3.0.1"
+  }
+}
