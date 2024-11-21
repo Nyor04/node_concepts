@@ -1,0 +1,3 @@
+Los buffers son áreas de memoria temporal utilizadas para almacenar datos en tránsito entre dos dispositivos o aplicaciones. Son esenciales porque permiten manejar y procesar datos de manera eficiente, evitando pérdidas al realizar operaciones de entrada/salida. Saber manejarlos es útil para optimizar el rendimiento de aplicaciones, ya que permiten la manipulación de grandes volúmenes de información sin necesidad de cargar todo en la memoria de forma inmediata, facilitando así la gestión de recursos y mejorando la velocidad en el procesamiento de datos.
+
+manejar informacion en memoria con esteroides por asi decirlo.
